@@ -1,0 +1,52 @@
+ID.No,Name,CardID,Department,Reason,Date,Time In,Time Out,User Status
+1,Kiran Lungade,14011844127,IT,Bank,01-12-2022,13:08:28,14:27:42,Arrived late and Left early
+2,Piyush Shinde,928917125,IT,Doctor,01-12-2022,13:09:18,14:27:43,Arrived late and Left early
+3,Pramila Shinde,762533125,IT,Doctor,01-12-2022,13:11:28,13:11:32,Arrived late and Left early
+4,Shital Rahane,1084640127,IT,Sick,01-12-2022,13:49:00,13:49:03,Arrived late and Left early
+5,Piyush Shinde,928917125,IT,Bank,02-12-2022,20:50:03,20:52:38,Arrived late and Left on time
+6,Piyush Shinde,928917125,IT,Home,03-12-2022,09:47:49,12:04:15,Arrived on time and Left early
+7,Ishwar Wagh,18814114125,IT,Bank,03-12-2022,09:52:12,09:52:14,Arrived on time and Left early
+8,Kiran Lungade,14011844127,IT,Bank,03-12-2022,09:58:45,11:39:38,Arrived on time and Left early
+9,Shital Rahane,1084640127,IT,Bus,03-12-2022,10:08:34,11:39:44,Arrived late and Left early
+10,Arati Rahane,9220967127,IT,Bank,03-12-2022,10:37:39,10:38:27,Arrived late and Left early
+11,Viraj Adhav,10857250123,IT,Bank,03-12-2022,10:41:59,10:42:30,Arrived late and Left early
+12,shreyas bhor,25210948127,IT,Sick,03-12-2022,10:47:40,,Arrived late
+13,Dipjyot jape,442399125,IT,Doctor,03-12-2022,11:20:57,,Arrived late
+14,Vaishavi Dhavade,23613252127,IT,Sick ,03-12-2022,11:49:31,11:49:50,Arrived late and Left early
+15,Arati Walte,12415613125,IT,Sick,03-12-2022,11:58:13,11:58:20,Arrived late and Left early
+16,Jayavant Warkhade,10823810125,IT,Doctor,03-12-2022,12:03:20,12:03:22,Arrived late and Left early
+17,tejas sonawane,10812311125,IT,Home,03-12-2022,12:05:25,12:05:42,Arrived late and Left early
+18,Piyush Shinde,928917125,IT,Home,09-01-2023,14:27:06,15:20:02,Arrived late
+19,Kiran Lungade,14011844127,IT,Home,12-01-2023,14:27:33,14:27:38,Arrived late and Left early
+20,Vishal Gavade,1.45E+11,IT,Bank,12-01-2023,14:28:36,,Arrived late
+21,Shital Rahane,1084640127,IT,Doctor,12-01-2023,15:02:24,16:01:16,Arrived late and Left early
+22,Viraj Adhav,10857250123,IT,Bank,12-01-2023,15:17:29,15:17:32,Arrived late and Left early
+23,Piyush Shinde,928917125,IT,Sick,12-01-2023,15:52:25,16:13:28,Arrived late and Left early
+24,Pramila Shinde,762533125,IT,Sick,12-01-2023,16:13:50,16:13:52,Arrived late and Left early
+25,Vaishavi Dhavade,23613252127,IT,Bus,12-01-2023,16:15:12,16:15:14,Arrived late and Left early
+26,Kiran Lungade,14011844127,IT,Bus,13-01-2023,09:10:47,09:10:50,Arrived on time and Left early
+27,Vaibhav Lokhande,765610125,IT,Home,13-01-2023,09:20:22,11:17:12,Arrived on time and Left early
+28,Tejas Nagare,281938125,IT,Bank,13-01-2023,09:57:23,09:58:02,Arrived on time and Left early
+29,Aher Vaishnavi,20412311125,IT,Bank,13-01-2023,09:59:36,,Arrived on time
+30,Shubham Kamandar,1402208125,IT,Doctor,13-01-2023,10:00:56,10:22:47,Arrived late and Left early
+31,Piyush Shinde,928917125,IT,Home,13-01-2023,10:04:43,11:23:36,Arrived late and Left early
+32,Saurabh hon,204910124,IT,Bank,13-01-2023,10:06:18,,Arrived late
+33,Sachin Jagtap,1222058773,IT,Bus,13-01-2023,10:09:15,,Arrived late
+34,Viraj Adhav,10857250123,IT,Sick,13-01-2023,10:12:05,10:12:18,Arrived late and Left early
+35,shreyas bhor,25210948127,IT,Sick,13-01-2023,10:18:21,,Arrived late
+36,Jayavant Warkhade,10823810125,IT,Bus,13-01-2023,10:18:30,,Arrived late
+37,Shital Rahane,1084640127,IT,Bus,13-01-2023,10:56:54,10:57:13,Arrived late and Left early
+38,Piyush Shinde,928917125,IT,Home,18-01-2023,16:53:43,17:13:19,Arrived late and Left early
+39,Piyush Shinde,928917125,IT,Bus,01-02-2023,09:12:11,09:12:43,Arrived on time and Left early
+40,Piyush Shinde,928917125,IT,Doctor,08-02-2023,13:26:35,13:39:31,Arrived late and Left early
+41,Piyush Shinde,928917125,IT,Bank,04-04-2023,12:17:50,12:18:43,Arrived late and Left early
+42,Shital Rahane,1084640127,IT,Home,05-04-2023,17:17:25,,Arrived late
+43,Kiran Lungade,14011844127,IT,Home,05-04-2023,17:21:25,17:22:35,Arrived late
+44,Piyush Shinde,928917125,IT,Sick,05-04-2023,17:30:11,17:45:20,Arrived late
+45,Shreyas Bhor,25210948127,IT,Sick,06-04-2023,16:27:28,,Arrived late
+46,Piyush Shinde,928917125,IT,Bank,06-04-2023,17:10:31,17:11:04,Arrived late and Left early
+47,Piyush Shinde,928917125,IT,Home,08-04-2023,15:51:23,16:00:00,Arrived late
+48,Arati Rahane,9220967127,IT,Sick,08-04-2023,15:53:02,,Arrived late
+49,Piyush Shinde,928917125,IT,Bank,12-04-2023,16:21:32,16:31:49,Approved late and Reached early
+50,Kiran Lungade,14011844127,IT,Home,12-04-2023,16:24:27,16:32:02,Approved late and Reached early
+52,Kiran Lungade,14011844127,IT,Bank,13-04-2023,17:25:02,17:25:20,Approved and Reached
